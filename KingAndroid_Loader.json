@@ -1,8 +1,20 @@
 {
-  "status": "success",
-  "license_status": "Active",
-  "expiry_date": "2029-12-31",
-  "user_type": "Premium",
-  "auth_token": "verified_8888",
-  "message": "Welcome! Your Loader is now Active."
+  "status": true,
+  "data": {
+    "modname": "Jhavendra_Mod",
+    "mod_status": "Online",
+    "credit": "MY_OWN_SERVER",
+    "token": "0d742b9889734661d767001ec5149b1c",
+    "exdate": "2030-01-01 00:00:00",
+    "EXP": "2030-01-01 00:00:00",
+    "ESP": "on",
+    "ITEMS": "on",
+    "AIM": "on",
+    "BULLETTRACK": "on",
+    "FLOATING": "on",
+    "MEMORY": "on",
+    "SETTING": "off",
+    "ANTICRACK": "on",
+    "rng": 1771493505
+  }
 }
